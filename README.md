@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NanniCandido
-- 👀 I’m interested in Data and Analytics
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nannicandido@gmail.com
+- Hi there, I am Elaine!
+- Interested in Data and Analytics.
+- e-Mail: nannicandido@gmail.com
+- Linkedin: https://www.linkedin.com/in/elaine-candido-da-silva/
+- Learning about Big Data at Semantix: https://semantix.com.br/ and Azure Data Engineer at DataEX: https://www.dataex.com.br/
 
 <!---
 NanniCandido/NanniCandido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
