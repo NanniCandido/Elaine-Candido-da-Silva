@@ -1,6 +1,6 @@
 ## Hi there, I am Elaine!
 ### Welcome to my profile.
-#### I'm a person interested in Data and Analytics.
+#### I'm a person interested in Big Data and Analytics.
 - e-Mail: nannicandido@gmail.com
 - Linkedin: https://www.linkedin.com/in/elaine-candido-da-silva/
 - Learning about Big Data at Semantix: https://semantix.com.br/ and Azure Data Engineer at DataEX: https://www.dataex.com.br/
