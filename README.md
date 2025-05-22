@@ -54,7 +54,7 @@ Je combine l'automatisation, la modélisation prédictive et la visualisation in
 📌 [Glassdoor Data Science Jobs Analysis](https://github.com/NanniCandido/glassdoor-data-science-jobs)  
 📌 [COVID-19 Data Automation & Reporting](https://github.com/NanniCandido/business-data-modeling)  
 📌 [Socioeconomic Factors and Obesity: A US Nation/State-Level Analysis](https://github.com/NanniCandido/data_movement_and_integration)  
-
+📌 [JavaScript projects - Client-Side Programming](https://github.com/NanniCandido/client-side-programming)  
 ---
 
 ### 📫 Let’s Connect
