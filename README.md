@@ -1,11 +1,11 @@
-## 👋 Hi there, I'm Elaine! | Bonjour, je suis Elaine ! | Olá, eu sou a Elaine!
+## 👋 Hi there, I'm Elaine! | Olá, eu sou a Elaine! | Bonjour, je suis Elaine ! 
 
 🎯 **Data Analyst | Python • R • SQL • Azure • Power BI • Tableau**  
 📍 Halifax, NS | Newcomer to Canada | Passionate about Data for Impact
 
 ---
 
-### EN About Me
+### 🇬🇧 About Me
 
 I’m a **recent graduate** in **Data Analytics** from **Nova Scotia Community College (NSCC)**, with a background in **data engineering** and **business analysis**. I’ve worked with both public and private organizations — including **Nova Scotia Health**, **Yara Brasil**, **Dataside**, and the **Court of Auditors in Brazil** — combining technical expertise with real-world impact.
 
@@ -13,7 +13,7 @@ My work blends automation, predictive modeling, data storytelling, and collabora
 
 ---
 
-### PT-BR Sobre mim
+### 🇧🇷 Sobre mim
 
 Sou **recém-graduada em Data Analytics** pelo **Nova Scotia Community College (NSCC)**, com experiência em **engenharia de dados** e **análise de negócios**. Atuei em organizações públicas e privadas — como a **Nova Scotia Health**, **Yara Brasil**, **Dataside** e o **Tribunal de Contas do RS** — sempre aplicando dados de forma prática e estratégica.
 
@@ -21,7 +21,7 @@ Minha atuação une automação, modelagem preditiva e comunicação de dados pa
 
 ---
 
-### FR À propos de moi
+### 🇫🇷 À propos de moi
 
 Je suis **récemment diplômée** en **Data Analytics** du **Nova Scotia Community College (NSCC)**. J'ai de l'expérience dans l’analyse de données et l'ingénierie des données, acquise dans des organisations publiques et privées telles que **Nova Scotia Health**, **Yara Brasil**, **Dataside**, et **la Cour des comptes au Brésil**.
 
