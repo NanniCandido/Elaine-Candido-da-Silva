@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Elaine! | Olá, eu sou a Elaine! | Bonjour, je suis Elaine ! 
 
 🎯 **Data Analyst | Python • R • SQL • Azure • Power BI • Tableau**  
-📍 Halifax, NS | Newcomer to Canada | Passionate about Data for Impact
+📍 Halifax, NS | Newcomer to Canada | Passionate about Data for Impact  
 
 ---
 
@@ -9,7 +9,12 @@
 
 I’m a **recent graduate** in **Data Analytics** from **Nova Scotia Community College (NSCC)**, with a background in **data engineering** and **business analysis**. I’ve worked with both public and private organizations — including **Nova Scotia Health**, **Yara Brasil**, **Dataside**, and the **Court of Auditors in Brazil** — combining technical expertise with real-world impact.
 
-My work blends automation, predictive modeling, data storytelling, and collaboration to drive meaningful outcomes.
+⚙️ I’m passionate about process optimization and automation, and I’m always looking for smarter ways to reduce manual work and increase efficiency.  
+🚀 I believe in **quick wins** and small, strategic deliveries that create immediate value.  
+🔁 I apply the **Minimum Viable Product (MVP)** approach to deliver faster results and iterate with purpose.  
+📊 I often follow the **80/20 Pareto principle**, focusing on the 20% of causes that drive 80% of the impact.  
+
+My work values **standardization**, **governance**, and **IT best practices** to ensure scalability, maintainability, and quality in everything I deliver.  
 
 ---
 
@@ -17,25 +22,37 @@ My work blends automation, predictive modeling, data storytelling, and collabora
 
 Sou **recém-graduada em Data Analytics** pelo **Nova Scotia Community College (NSCC)**, com experiência em **engenharia de dados** e **análise de negócios**. Atuei em organizações públicas e privadas — como a **Nova Scotia Health**, **Yara Brasil**, **Dataside** e o **Tribunal de Contas do RS** — sempre aplicando dados de forma prática e estratégica.
 
-Minha atuação une automação, modelagem preditiva e comunicação de dados para gerar impacto real.
+⚙️ Tenho grande interesse por otimização e automação de processos, buscando sempre maneiras mais inteligentes de reduzir esforço manual e aumentar a eficiência.  
+🚀 Acredito em **vitórias rápidas** e entregas pequenas e estratégicas que geram valor imediato.  
+🔁 Aplico a abordagem de **Produto Mínimo Viável (MVP)** para obter resultados mais rápidos e iterar com propósito.  
+📊 Costumo seguir o **Princípio de Pareto (80/20)**, focando nos 20% das causas que geram 80% do impacto.
+
+Minha atuação valoriza a **padronização**, a **governança** e as **boas práticas em TI**, garantindo que as soluções sejam escaláveis, sustentáveis e de alta qualidade.
 
 ---
 
 ### 🇫🇷 À propos de moi
 
-Je suis **récemment diplômée** en **Data Analytics** du **Nova Scotia Community College (NSCC)**. J'ai de l'expérience dans l’analyse de données et l'ingénierie des données, acquise dans des organisations publiques et privées telles que **Nova Scotia Health**, **Yara Brasil**, **Dataside**, et **la Cour des comptes au Brésil**.
+Je suis **récemment diplômée** en **Data Analytics** du **Nova Scotia Community College (NSCC)**. J’ai de l’expérience en **ingénierie des données** et en **analyse d’affaires**, acquise au sein d’organisations publiques et privées telles que **Nova Scotia Health**, **Yara Brasil**, **Dataside** et **la Cour des comptes au Brésil**.
 
-Je combine l'automatisation, la modélisation prédictive et la visualisation interactive pour soutenir la prise de décisions basée sur les données.
+⚙️ Je m'intéresse particulièrement à l’optimisation et à l’automatisation des processus, en cherchant toujours des moyens plus intelligents de réduire les tâches manuelles et d’accroître l'efficacité.  
+🚀 Je crois aux **gains rapides** et aux livraisons petites mais stratégiques qui créent de la valeur immédiate.  
+🔁 J’applique l’approche du **Produit Minimum Viable (MVP)** pour livrer plus rapidement et itérer avec intention.  
+📊 Je suis souvent le **principe de Pareto 80/20**, en me concentrant sur les 20 % de causes qui produisent 80 % des résultats.
+
+J’accorde également de l’importance à la **standardisation**, à la **gouvernance** et aux **bonnes pratiques en TI**, afin d'assurer la qualité, la pérennité et la maintenabilité des solutions.  
 
 ---
 
 ### 🛠️ Technical Skills
 
-- **Languages & Tools**: Python, R, SQL, PL/SQL, T-SQL, JSON, argparse  
-- **Data Engineering**: Azure Data Factory, Databricks, Delta Lake, SAP HANA  
-- **Visualization**: Power BI, Tableau  
+- **Languages & Tools**: Python, R, SQL, PL/SQL, T-SQL, JSON 
+- **Data Engineering**: Azure Data Factory, Alteryx, Databricks, Delta Lake, Medallion Architecture
+- **Cloud Foundation**: MS Azure Cloud, AWS Cloud 
+- **Visualization**: Power BI, Tableau, Excel  
 - **Automation & APIs**: Win32 (Excel), pandas, openpyxl  
-- **Collaboration**: GitHub, Azure DevOps, SharePoint, MS Teams
+- **Collaboration**: GitHub, SharePoint, MS Teams
+- **Data/Process Modeling**: Bizagi, BPM, Visio, DFD, Process Flow
 
 ---
 
@@ -55,6 +72,7 @@ Je combine l'automatisation, la modélisation prédictive et la visualisation in
 📌 [COVID-19 Data Automation & Reporting](https://github.com/NanniCandido/business-data-modeling)  
 📌 [Socioeconomic Factors and Obesity: A US Nation/State-Level Analysis](https://github.com/NanniCandido/data_movement_and_integration)  
 📌 [JavaScript projects - Client-Side Programming](https://github.com/NanniCandido/client-side-programming)  
+
 ---
 
 ### 📫 Let’s Connect
