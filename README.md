@@ -33,9 +33,9 @@ Minha atuação valoriza a **padronização**, a **governança** e as **boas pr�
 
 ### 🇫🇷 À propos de moi
 
-Je suis **récemment diplômée** en **Data Analytics** du **Nova Scotia Community College (NSCC)**. J’ai de l’expérience en **ingénierie des données** et en **analyse d’affaires**, acquise au sein d’organisations publiques et privées telles que **Nova Scotia Health**, **Yara Brasil**, **Dataside** et **la Cour des comptes au Brésil**.
+Je suis **récemment diplômée** en **Analyse des Données** du **Nova Scotia Community College (NSCC)**. J’ai de l’expérience en **ingénierie des données** et en **analyse d’affaires**, acquise au sein d’organisations publiques et privées telles que **Nova Scotia Health**, **Yara Brasil**, **Dataside** et **la Cour des comptes au Brésil**.
 
-⚙️ Je m'intéresse particulièrement à l’optimisation et à l’automatisation des processus, en cherchant toujours des moyens plus intelligents de réduire les tâches manuelles et d’accroître l'efficacité.  
+⚙️ Je m'intéresse particulièrement à l’optimisation et à l’automatisation des processus, et je cherche toujours à trouver des moyens plus intelligents de réduire les tâches manuelles et d’accroître l'efficacité.  
 🚀 Je crois aux **gains rapides** et aux livraisons petites mais stratégiques qui créent de la valeur immédiate.  
 🔁 J’applique l’approche du **Produit Minimum Viable (MVP)** pour livrer plus rapidement et itérer avec intention.  
 📊 Je suis souvent le **principe de Pareto 80/20**, en me concentrant sur les 20 % de causes qui produisent 80 % des résultats.
