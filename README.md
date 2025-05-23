@@ -72,6 +72,8 @@ J’accorde également de l’importance à la **standardisation**, à la **gouv
 📌 [COVID-19 Data Automation & Reporting](https://github.com/NanniCandido/business-data-modeling)  
 📌 [Socioeconomic Factors and Obesity: A US Nation/State-Level Analysis](https://github.com/NanniCandido/data_movement_and_integration)  
 📌 [JavaScript projects - Client-Side Programming](https://github.com/NanniCandido/client-side-programming)  
+📌 [Inventory Management Use Case](https://github.com/NanniCandido/inventory-management_use-case)  
+📌 [NS Clothing & Fitness App Cases](https://github.com/NanniCandido/business-analysis-essentials)  
 
 ---
 
